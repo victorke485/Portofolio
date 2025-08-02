@@ -12,7 +12,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Portfolio](https://victorke485.github.io/Victor_Portfolio/)**
+🔗 **[View Live Portfolio](https://victormutua.netlify.app/)**
 
 ## 🛠️ Technologies Used
 
